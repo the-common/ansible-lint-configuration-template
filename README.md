@@ -5,6 +5,13 @@ Ready-to-use Ansible-lint configuration file at your fingertips!
 <https://gitlab.com/the-common/ansible-lint-configuration-template>  
 [![The GitLab CI pipeline status badge of the project's `main` branch](https://gitlab.com/the-common/ansible-lint-configuration-template/badges/main/pipeline.svg?ignore_skipped=true "Click here to check out the comprehensive status of the GitLab CI pipelines")](https://gitlab.com/the-common/ansible-lint-configuration-template/-/pipelines) [![GitHub Actions workflow status badge](https://github.com/the-common/ansible-lint-configuration-template/actions/workflows/check-potential-problems.yml/badge.svg "GitHub Actions workflow status")](https://github.com/the-common/ansible-lint-configuration-template/actions/workflows/check-potential-problems.yml) [![pre-commit enabled badge](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "This project uses pre-commit to check potential problems")](https://pre-commit.com/) [![REUSE Specification compliance badge](https://api.reuse.software/badge/gitlab.com/the-common/ansible-lint-configuration-template "This project complies to the REUSE specification to decrease software licensing costs")](https://api.reuse.software/info/gitlab.com/the-common/ansible-lint-configuration-template)
 
+## Usage
+
+1. Download the release package from [the project's Releases page](https://gitlab.com/the-common/ansible-lint-configuration-template/-/releases).
+1. Extract the downloaded release package.
+1. Install [the template.ansible-lint.yml template file](template.ansible-lint.yml) to your project following [the Using local configuration files - Configuration - Ansible Lint Documentation section](https://ansible.readthedocs.io/projects/lint/configuring/#using-local-configuration-files).
+1. Customize the copy of the configuration file in your project to your liking.
+
 ## References
 
 The following external materials are referenced during the development of this project:
