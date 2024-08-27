@@ -11,6 +11,8 @@ The following external materials are referenced during the development of this p
 
 * [Configuration - Ansible Lint Documentation](https://ansible.readthedocs.io/projects/lint/configuring/)  
   Explains the format of the Ansible-lint configuration file.
+* [Profiles - Ansible Lint Documentation](https://ansible.readthedocs.io/projects/lint/profiles/)  
+  Explains the concepts and details of each Ansible-lint profiles.
 
 ## Licensing
 
