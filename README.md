@@ -10,7 +10,7 @@ Ready-to-use Ansible-lint configuration file at your fingertips!
 The following external materials are referenced during the development of this project:
 
 * [Configuration - Ansible Lint Documentation](https://ansible.readthedocs.io/projects/lint/configuring/)  
-  Explans the format of the Ansible-lint configuration file.
+  Explains the format of the Ansible-lint configuration file.
 
 ## Licensing
 
